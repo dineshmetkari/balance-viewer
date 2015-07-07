@@ -1,0 +1,1 @@
+This is an android app that retrieves the bank balance of an account and displays it.
